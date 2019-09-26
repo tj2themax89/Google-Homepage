@@ -1,0 +1,1 @@
+This project is to practice creating a web page using the Google homepage as a guide. I will be putting everything into practice including HTML and CSS. Java to come later.
